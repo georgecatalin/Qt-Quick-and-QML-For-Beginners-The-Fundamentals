@@ -1,0 +1,15 @@
+PS D:\CodeLab\Qt-Quick-and-QML-For-Beginners-The-Fundamentals\1-4RunningYourQMLApplications_via_QtCreator> dir          
+
+    Directory: D:\CodeLab\Qt-Quick-and-QML-For-Beginners-The-Fundamentals\1-4RunningYourQMLApplications_via_QtCreator
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----       11/18/2020  11:55 AM            706 1-4RunningYourQMLApplications_via_QtCreator.pro
+-a----       11/18/2020  11:58 AM          25731 1-4RunningYourQMLApplications_via_QtCreator.pro.user
+-a----       11/18/2020  11:55 AM            598 main.cpp
+-a----       11/18/2020  11:57 AM            311 main.qml
+-a----       11/18/2020  11:55 AM             92 qml.qrc
+
+
+PS D:\CodeLab\Qt-Quick-and-QML-For-Beginners-The-Fundamentals\1-4RunningYourQMLApplications_via_QtCreator> C:\Qt\5.14.2\mingw73_64\bin\qml .\main.qml
