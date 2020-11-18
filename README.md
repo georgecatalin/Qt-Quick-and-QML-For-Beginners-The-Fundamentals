@@ -19,4 +19,4 @@ https://www.udemy.com/course/qt_quick_qml_tutorial_for_beginners/
 * Networking : Fetching HTTP Data and JSON(REST) APIs
 * Settings and Local Storage
 
-![landing](/LANDING.png)
+![landing](/LANDING.jpg)
