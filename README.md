@@ -3,7 +3,7 @@ Code practice associated with the Udemy course Qt Quick and QML For Beginners : 
 
 https://www.udemy.com/course/qt_quick_qml_tutorial_for_beginners/
 
-## To learn here:
+## Topics to learn:
 
 * The basics of working with the QML language
 * Working with Qt Quick basic elements and building your own in QML
@@ -19,3 +19,4 @@ https://www.udemy.com/course/qt_quick_qml_tutorial_for_beginners/
 * Networking : Fetching HTTP Data and JSON(REST) APIs
 * Settings and Local Storage
 
+![landing](/LANDING.png)
